@@ -1,0 +1,17 @@
+{
+	"usingRoleId" : 1,
+	"using_image": "role_attack.png",
+	"available_image": "role_unlock.png",
+	"disable_image": "role_key.png",
+
+	"roleInfos":[{"id":1,"name":"wolverine","available":1,"role_chat_image":"我闻到死亡的气息了！",
+	"role_image":"story_3_1.png","role_desp_title":"特种兵","role_desp_brief":"简介：使用火神重机枪，射速超高，但伤害较低。",
+	"role_desp_speci":"武器特性：三连射。"},{"id":2,"name":"blackwidow","available":0,"role_chat_image":"想和我约会吗？",
+	"role_image":"story_3_2.png","role_desp_title":"黑寡妇","role_desp_brief":"简介：使用离子火焰喷射器和RPG-7磁导火箭炮，攻击力强大。",
+	"role_desp_speci":"立即获得新手礼包,解锁黑寡妇,赠送护盾x5,仅需12元"},
+	{"id":3,"name":"robot","available":0,"role_chat_image":"汽车人，变形出发！",
+	"role_image":"story_3_3.png","role_desp_title":"擎天铸",
+	"role_desp_brief":"简介：使用高斯激光枪和电磁激光炮，射速快、伤害超高。",
+	"role_desp_speci":"立即获得土豪金礼包,解锁擎天柱,赠送必杀x5,仅需16元"}]
+
+}

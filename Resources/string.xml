@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN""http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+	
+   <dict>  
+	<key>lock</key>  
+	<string>通过第一章后解锁！</string> 
+
+	
+
+	<key>lingqu</key>  
+	<string>恭喜您获得价值12元的奖品!
+		领取只需6元!</string> 
+
+	<key>tip</key>  
+	<string>  免费获得一次抽奖机会！
+可获得价值10.00元的奖品
+哦!
+	</string> 
+   </dict>  
+
+ 
+</plist> 
